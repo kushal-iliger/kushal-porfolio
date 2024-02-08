@@ -1,5 +1,5 @@
 import HeroSection from "../components/HeroSection.jsx";
-import Navbar from "D:/Portfolio/kushal-porfolio/src/components/Navbar.jsx";
+import Navbar from "../components/Navbar.jsx";
 //import AboutSection from "./components/AboutSection";
 //import ProjectsSection from "./components/ProjectsSection";
 //import EmailSection from "./components/EmailSection";
