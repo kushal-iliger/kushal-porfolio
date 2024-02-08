@@ -1,6 +1,6 @@
 import HeroSection from "../components/HeroSection.jsx";
 import Navbar from "../components/Navbar.jsx";
-//import AboutSection from "./components/AboutSection";
+import AboutSection from "../components/AboutSection.jsx";
 //import ProjectsSection from "./components/ProjectsSection";
 //import EmailSection from "./components/EmailSection";
 //import Footer from "./components/Footer";
@@ -12,7 +12,7 @@ export default function Home() {
       <Navbar />
       <div className="container mt-24 mx-auto px-12 py-4">
         <HeroSection />
-        
+        <AboutSection />
       </div>
       
     </main>
@@ -21,7 +21,7 @@ export default function Home() {
 
 
 //<AchievementsSection />
-//        <AboutSection />
+
 //        <ProjectsSection />
 //        <EmailSection />
 //        <Footer />
